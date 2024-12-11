@@ -2,4 +2,8 @@
 build/*
 log/*
 lib/opencv/*
+include/opencv/*
+include/python312/*
+include/pylon5/*
+include/numpy/*
 xmlDataFileAll.xml
