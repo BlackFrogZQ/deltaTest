@@ -1,0 +1,5 @@
+.vscode/*
+build/*
+1.saveImage/*
+log/*
+xmlDataFileAll.xml
