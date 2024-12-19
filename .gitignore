@@ -6,4 +6,4 @@ include/opencv/*
 include/python312/*
 include/pylon5/*
 include/numpy/*
-xmlDataFileAll.xml
+# xmlDataFileAll.xml

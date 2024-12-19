@@ -58,7 +58,7 @@ void CMainWindow::printMsg(QString p_msg)
 
 void CMainWindow::initLayout()
 {
-    int imageW = 1626, imageH = 1236, controlWidgetH = 540;
+    int imageW = 1626 / 2, imageH = 1236 / 2, controlWidgetH = 540 / 2;
     //图像窗口
     m_pImageLabel = new QLabel;
     m_pImageLabel->setFixedSize(imageW, imageH);

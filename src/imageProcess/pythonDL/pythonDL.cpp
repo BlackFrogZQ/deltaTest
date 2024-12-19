@@ -147,6 +147,7 @@ namespace TIGER_ProcessTool
             m_pPyModule = PyImport_ImportModule("detectObb");
             if (m_pPyModule == NULL)
             {
+                PyErr_Print();
                 myInfo << "not found module: detectObb";
                 return false;
             }

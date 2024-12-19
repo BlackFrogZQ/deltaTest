@@ -121,7 +121,7 @@ qt5_add_resources(sources qml.qrc)
 # add_compile_options("$<$<CXX_COMPILER_ID:MSVC>:/utf-8>")
 
 add_executable(${PROJECT_NAME}
-    WIN32 # If you need a terminal for debug, please comment this statement#是在调试控制台输出还是在终端输出//
+    WIN32 # If you need a terminal for debug, please comment this statement#是在调试控制台输出还是在终端输出
     ${paraServerCpp}
     ${sources}
     main.cpp

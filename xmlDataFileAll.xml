@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ParameterRoot remark="" cnName="" visible="0">
+    <cameraPara remark="/" cnName="相机参数" visible="1">
+        <ip remark="" cnName="ip" visible="1">
+            <value>169.254.169.99</value>
+        </ip>
+        <exposureTime remark="" cnName="初始曝光时间" visible="1">
+            <value>4000</value>
+        </exposureTime>
+        <heartbeatTime remark="" cnName="心跳时间" visible="0">
+            <value>5000</value>
+        </heartbeatTime>
+    </cameraPara>
+    <ZMotionPara remark="/" cnName="运动控制卡参数" visible="1">
+        <ip remark="" cnName="ip" visible="1">
+            <value>192.168.0.11</value>
+        </ip>
+        <JointX remark="" cnName="关节轴X" visible="1">
+            <setAtype remark="设置轴类型" cnName="轴类型" visible="1">
+                <value>7</value>
+            </setAtype>
+            <setDpos remark="设置DPOS值" cnName="DPOS值" visible="1">
+                <value>0</value>
+            </setDpos>
+            <setDatumIn remark="设置原点信号" cnName="原点信号" visible="1">
+                <value>2</value>
+            </setDatumIn>
+            <setUnits remark="设置轴脉冲当量" cnName="轴脉冲当量" visible="1">
+                <value>100</value>
+            </setUnits>
+            <setSpeed remark="设置轴最大速度" cnName="轴最大速度" visible="1">
+                <value>200</value>
+            </setSpeed>
+            <setAccel remark="设置轴的加速度" cnName="轴的加速度" visible="1">
+                <value>1000</value>
+            </setAccel>
+            <setDecel remark="设置轴的减速度" cnName="轴的减速度" visible="1">
+                <value>1000</value>
+            </setDecel>
+            <setSramp remark="设置轴的s曲线" cnName="轴的s曲线" visible="1">
+                <value>50</value>
+            </setSramp>
+            <setCreep remark="关节轴回爬速度" cnName="关节轴回爬速度" visible="1">
+                <value>10</value>
+            </setCreep>
+        </JointX>
+        <JointY remark="" cnName="关节轴Y" visible="1">
+            <setAtype remark="设置轴类型" cnName="轴类型" visible="1">
+                <value>7</value>
+            </setAtype>
+            <setDpos remark="设置DPOS值" cnName="DPOS值" visible="1">
+                <value>0</value>
+            </setDpos>
+            <setDatumIn remark="设置原点信号" cnName="原点信号" visible="1">
+                <value>2</value>
+            </setDatumIn>
+            <setUnits remark="设置轴脉冲当量" cnName="轴脉冲当量" visible="1">
+                <value>100</value>
+            </setUnits>
+            <setSpeed remark="设置轴最大速度" cnName="轴最大速度" visible="1">
+                <value>200</value>
+            </setSpeed>
+            <setAccel remark="设置轴的加速度" cnName="轴的加速度" visible="1">
+                <value>1000</value>
+            </setAccel>
+            <setDecel remark="设置轴的减速度" cnName="轴的减速度" visible="1">
+                <value>1000</value>
+            </setDecel>
+            <setSramp remark="设置轴的s曲线" cnName="轴的s曲线" visible="1">
+                <value>50</value>
+            </setSramp>
+            <setCreep remark="关节轴回爬速度" cnName="关节轴回爬速度" visible="1">
+                <value>10</value>
+            </setCreep>
+        </JointY>
+        <JointZ remark="" cnName="关节轴Z" visible="1">
+            <setAtype remark="设置轴类型" cnName="轴类型" visible="1">
+                <value>7</value>
+            </setAtype>
+            <setDpos remark="设置DPOS值" cnName="DPOS值" visible="1">
+                <value>0</value>
+            </setDpos>
+            <setDatumIn remark="设置原点信号" cnName="原点信号" visible="1">
+                <value>2</value>
+            </setDatumIn>
+            <setUnits remark="设置轴脉冲当量" cnName="轴脉冲当量" visible="1">
+                <value>100</value>
+            </setUnits>
+            <setSpeed remark="设置轴最大速度" cnName="轴最大速度" visible="1">
+                <value>200</value>
+            </setSpeed>
+            <setAccel remark="设置轴的加速度" cnName="轴的加速度" visible="1">
+                <value>1000</value>
+            </setAccel>
+            <setDecel remark="设置轴的减速度" cnName="轴的减速度" visible="1">
+                <value>1000</value>
+            </setDecel>
+            <setSramp remark="设置轴的s曲线" cnName="轴的s曲线" visible="1">
+                <value>50</value>
+            </setSramp>
+            <setCreep remark="关节轴回爬速度" cnName="关节轴回爬速度" visible="1">
+                <value>10</value>
+            </setCreep>
+        </JointZ>
+        <JointA remark="" cnName="关节轴A" visible="1">
+            <setAtype remark="设置轴类型" cnName="轴类型" visible="1">
+                <value>7</value>
+            </setAtype>
+            <setDpos remark="设置DPOS值" cnName="DPOS值" visible="1">
+                <value>0</value>
+            </setDpos>
+            <setDatumIn remark="设置原点信号" cnName="原点信号" visible="1">
+                <value>2</value>
+            </setDatumIn>
+            <setUnits remark="设置轴脉冲当量" cnName="轴脉冲当量" visible="1">
+                <value>100</value>
+            </setUnits>
+            <setSpeed remark="设置轴最大速度" cnName="轴最大速度" visible="1">
+                <value>200</value>
+            </setSpeed>
+            <setAccel remark="设置轴的加速度" cnName="轴的加速度" visible="1">
+                <value>1000</value>
+            </setAccel>
+            <setDecel remark="设置轴的减速度" cnName="轴的减速度" visible="1">
+                <value>1000</value>
+            </setDecel>
+            <setSramp remark="设置轴的s曲线" cnName="轴的s曲线" visible="1">
+                <value>50</value>
+            </setSramp>
+            <setCreep remark="关节轴回爬速度" cnName="关节轴回爬速度" visible="1">
+                <value>10</value>
+            </setCreep>
+        </JointA>
+        <VirtualX remark="" cnName="虚拟轴X" visible="1">
+            <setAtype remark="设置轴类型" cnName="轴类型" visible="1">
+                <value>7</value>
+            </setAtype>
+            <setDpos remark="设置DPOS值" cnName="DPOS值" visible="1">
+                <value>0</value>
+            </setDpos>
+            <setDatumIn remark="设置原点信号" cnName="原点信号" visible="1">
+                <value>2</value>
+            </setDatumIn>
+            <setUnits remark="设置轴脉冲当量" cnName="轴脉冲当量" visible="1">
+                <value>1000</value>
+            </setUnits>
+            <setSpeed remark="设置轴最大速度" cnName="轴最大速度" visible="1">
+                <value>2000</value>
+            </setSpeed>
+            <setAccel remark="设置轴的加速度" cnName="轴的加速度" visible="1">
+                <value>3000</value>
+            </setAccel>
+            <setDecel remark="设置轴的减速度" cnName="轴的减速度" visible="1">
+                <value>3000</value>
+            </setDecel>
+            <setSramp remark="设置轴的s曲线" cnName="轴的s曲线" visible="1">
+                <value>50</value>
+            </setSramp>
+            <setCreep remark="关节轴回爬速度" cnName="关节轴回爬速度" visible="1">
+                <value>10</value>
+            </setCreep>
+        </VirtualX>
+        <VirtualY remark="" cnName="虚拟轴Y" visible="1">
+            <setAtype remark="设置轴类型" cnName="轴类型" visible="1">
+                <value>7</value>
+            </setAtype>
+            <setDpos remark="设置DPOS值" cnName="DPOS值" visible="1">
+                <value>0</value>
+            </setDpos>
+            <setDatumIn remark="设置原点信号" cnName="原点信号" visible="1">
+                <value>2</value>
+            </setDatumIn>
+            <setUnits remark="设置轴脉冲当量" cnName="轴脉冲当量" visible="1">
+                <value>1000</value>
+            </setUnits>
+            <setSpeed remark="设置轴最大速度" cnName="轴最大速度" visible="1">
+                <value>2000</value>
+            </setSpeed>
+            <setAccel remark="设置轴的加速度" cnName="轴的加速度" visible="1">
+                <value>3000</value>
+            </setAccel>
+            <setDecel remark="设置轴的减速度" cnName="轴的减速度" visible="1">
+                <value>3000</value>
+            </setDecel>
+            <setSramp remark="设置轴的s曲线" cnName="轴的s曲线" visible="1">
+                <value>50</value>
+            </setSramp>
+            <setCreep remark="关节轴回爬速度" cnName="关节轴回爬速度" visible="1">
+                <value>10</value>
+            </setCreep>
+        </VirtualY>
+        <VirtualZ remark="" cnName="虚拟轴Z" visible="1">
+            <setAtype remark="设置轴类型" cnName="轴类型" visible="1">
+                <value>7</value>
+            </setAtype>
+            <setDpos remark="设置DPOS值" cnName="DPOS值" visible="1">
+                <value>0</value>
+            </setDpos>
+            <setDatumIn remark="设置原点信号" cnName="原点信号" visible="1">
+                <value>2</value>
+            </setDatumIn>
+            <setUnits remark="设置轴脉冲当量" cnName="轴脉冲当量" visible="1">
+                <value>1000</value>
+            </setUnits>
+            <setSpeed remark="设置轴最大速度" cnName="轴最大速度" visible="1">
+                <value>2000</value>
+            </setSpeed>
+            <setAccel remark="设置轴的加速度" cnName="轴的加速度" visible="1">
+                <value>3000</value>
+            </setAccel>
+            <setDecel remark="设置轴的减速度" cnName="轴的减速度" visible="1">
+                <value>3000</value>
+            </setDecel>
+            <setSramp remark="设置轴的s曲线" cnName="轴的s曲线" visible="1">
+                <value>50</value>
+            </setSramp>
+            <setCreep remark="关节轴回爬速度" cnName="关节轴回爬速度" visible="1">
+                <value>10</value>
+            </setCreep>
+        </VirtualZ>
+        <VirtualA remark="" cnName="虚拟轴A" visible="1">
+            <setAtype remark="设置轴类型" cnName="轴类型" visible="1">
+                <value>7</value>
+            </setAtype>
+            <setDpos remark="设置DPOS值" cnName="DPOS值" visible="1">
+                <value>0</value>
+            </setDpos>
+            <setDatumIn remark="设置原点信号" cnName="原点信号" visible="1">
+                <value>2</value>
+            </setDatumIn>
+            <setUnits remark="设置轴脉冲当量" cnName="轴脉冲当量" visible="1">
+                <value>100</value>
+            </setUnits>
+            <setSpeed remark="设置轴最大速度" cnName="轴最大速度" visible="1">
+                <value>2000</value>
+            </setSpeed>
+            <setAccel remark="设置轴的加速度" cnName="轴的加速度" visible="1">
+                <value>3000</value>
+            </setAccel>
+            <setDecel remark="设置轴的减速度" cnName="轴的减速度" visible="1">
+                <value>3000</value>
+            </setDecel>
+            <setSramp remark="设置轴的s曲线" cnName="轴的s曲线" visible="1">
+                <value>50</value>
+            </setSramp>
+            <setCreep remark="关节轴回爬速度" cnName="关节轴回爬速度" visible="1">
+                <value>10</value>
+            </setCreep>
+        </VirtualA>
+        <zeroPoint remark="" cnName="原点" visible="1">
+            <zeroX remark="设置原点X坐标" cnName="X" visible="1">
+                <value>0</value>
+            </zeroX>
+            <zeroY remark="设置原点Y坐标" cnName="Y" visible="1">
+                <value>0</value>
+            </zeroY>
+            <zeroZ remark="设置原点Z坐标" cnName="Z" visible="1">
+                <value>-483.709</value>
+            </zeroZ>
+        </zeroPoint>
+        <workPoint remark="" cnName="工作点" visible="1">
+            <workX remark="设置工作点点X坐标" cnName="X" visible="1">
+                <value>100</value>
+            </workX>
+            <workY remark="设置工作点点Y坐标" cnName="Y" visible="1">
+                <value>0</value>
+            </workY>
+            <workZ remark="设置工作点点Z坐标" cnName="Z" visible="1">
+                <value>-600</value>
+            </workZ>
+        </workPoint>
+        <placePoint remark="" cnName="放置点" visible="1">
+            <placeX remark="设置位置点X坐标" cnName="X" visible="1">
+                <value>300</value>
+            </placeX>
+            <placeY remark="设置位置点Y坐标" cnName="Y" visible="1">
+                <value>20</value>
+            </placeY>
+            <placeZ remark="设置位置点Z坐标" cnName="Z" visible="1">
+                <value>-630</value>
+            </placeZ>
+        </placePoint>
+        <grabPoint remark="" cnName="抓取点" visible="1">
+            <grabZUp remark="设置抓取点Z坐标" cnName="ZUp" visible="1">
+                <value>-640</value>
+            </grabZUp>
+            <grabZDown remark="设置抓取点Z坐标" cnName="ZDown" visible="1">
+                <value>-650</value>
+            </grabZDown>
+            <Speed remark="设置传送带移动速度" cnName="Speed" visible="1">
+                <value>80</value>
+            </Speed>
+        </grabPoint>
+    </ZMotionPara>
+</ParameterRoot>
